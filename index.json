@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Sabian",
+        "path": "online_kit_4",
+        "coverUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/4/cover.png",
+        "zipUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/4/kit.megadrum"
+    }
+    {
+        "name": "A7X",
+        "path": "online_kit_5",
+        "coverUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/5/cover.png",
+        "zipUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/5/kit.megadrum"
+    }
+    {
+        "name": "Black Cymbal",
+        "path": "online_kit_6",
+        "coverUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/6/cover.png",
+        "zipUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/6/kit.megadrum"
+    }
+    {
+        "name": "Forró 1",
+        "path": "online_kit_7",
+        "coverUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/7/cover.png",
+        "zipUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/7/kit.megadrum"
+    }
+    {
+        "name": "Kristina",
+        "path": "online_kit_8",
+        "coverUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/8/cover.png",
+        "zipUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/8/kit.megadrum"
+    }
+    {
+        "name": "Sound X",
+        "path": "online_kit_9",
+        "coverUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/9/cover.png",
+        "zipUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/9/kit.megadrum"
+    }
+    {
+        "name": "Orange n' Black",
+        "path": "online_kit_10",
+        "coverUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/10cover.png/",
+        "zipUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/kit.megadrum/"
+    }
+    {
+        "name": "EDS",
+        "path": "online_kit_11",
+        "coverUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/11cover.png/",
+        "zipUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/kit.megadrum/"
+    }
+]
