@@ -38,13 +38,13 @@
     {
         "name": "Orange n' Black",
         "path": "online_kit_10",
-        "coverUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/10cover.png/",
-        "zipUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/kit.megadrum/"
+        "coverUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/10/cover.png",
+        "zipUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/10/kit.megadrum"
     },
     {
         "name": "EDS",
         "path": "online_kit_11",
-        "coverUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/11cover.png/",
-        "zipUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/kit.megadrum/"
+        "coverUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/11/cover.png",
+        "zipUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/11/kit.megadrum"
     }
 ]
