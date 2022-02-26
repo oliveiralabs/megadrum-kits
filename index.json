@@ -46,5 +46,11 @@
         "path": "online_kit_11",
         "coverUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/11/cover.png",
         "zipUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/11/kit.megadrum"
+    },
+    {
+        "name": "Alternative",
+        "path": "online_kit_12",
+        "coverUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/12/cover.png",
+        "zipUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/12/kit.megadrum"
     }
 ]
