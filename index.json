@@ -52,5 +52,23 @@
         "path": "online_kit_12",
         "coverUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/12/cover.png",
         "zipUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/12/kit.megadrum"
+    },
+    {
+        "name": "Electric drums",
+        "path": "online_kit_13",
+        "coverUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/13/cover.png",
+        "zipUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/13/kit.megadrum"
+    },
+    {
+        "name": "Ayuda",
+        "path": "online_kit_14",
+        "coverUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/14/cover.png",
+        "zipUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/14/kit.megadrum"
+    },
+    {
+        "name": "Retro",
+        "path": "online_kit_15",
+        "coverUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/15/cover.png",
+        "zipUrl": "https://raw.githubusercontent.com/oliveiralabs/megadrum-kits/master/15/kit.megadrum"
     }
 ]
