@@ -70,5 +70,11 @@
         "path": "online_kit_15",
         "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/15/cover.png",
         "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/15/kit.megadrum"
+    },
+    {
+        "name": "Soultone",
+        "path": "online_kit_16",
+        "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/16/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/16/kit.megadrum"
     }
 ]
