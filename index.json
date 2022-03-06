@@ -64,5 +64,11 @@
         "path": "online_kit_14",
         "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/14/cover.png",
         "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/14/kit.megadrum"
+    },
+    {
+        "name": "Armada",
+        "path": "online_kit_15",
+        "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/15/cover.png",
+        "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/15/kit.megadrum"
     }
 ]
