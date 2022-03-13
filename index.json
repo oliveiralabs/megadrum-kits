@@ -1,80 +1,80 @@
 [
-    {
-        "name": "Sabian",
-        "path": "online_kit_4",
-        "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/4/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/4/kit.megadrum"
-    },
-    {
-        "name": "A7X",
-        "path": "online_kit_5",
-        "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/5/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/5/kit.megadrum"
-    },
-    {
-        "name": "Black Cymbal",
-        "path": "online_kit_6",
-        "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/6/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/6/kit.megadrum"
-    },
-    {
-        "name": "Forró 1",
-        "path": "online_kit_7",
-        "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/7/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/7/kit.megadrum"
-    },
-    {
-        "name": "Kristina",
-        "path": "online_kit_8",
-        "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/8/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/8/kit.megadrum"
-    },
-    {
-        "name": "Sound X",
-        "path": "online_kit_9",
-        "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/9/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/9/kit.megadrum"
-    },
-    {
-        "name": "Orange n' Black",
-        "path": "online_kit_10",
-        "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/10/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/10/kit.megadrum"
-    },
-    {
-        "name": "EDS",
-        "path": "online_kit_11",
-        "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/11/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/11/kit.megadrum"
-    },
-    {
-        "name": "Alternative",
-        "path": "online_kit_12",
-        "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/12/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/12/kit.megadrum"
-    },
-    {
-        "name": "Electric drums",
-        "path": "online_kit_13",
-        "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/13/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/13/kit.megadrum"
-    },
-    {
-        "name": "Retro",
-        "path": "online_kit_14",
-        "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/14/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/14/kit.megadrum"
-    },
-    {
-        "name": "Armada",
-        "path": "online_kit_15",
-        "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/15/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/15/kit.megadrum"
-    },
-    {
-        "name": "Soultone",
-        "path": "online_kit_16",
-        "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/16/cover.png",
-        "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/16/kit.megadrum"
-    }
+  {
+    "name": "Sabian",
+    "path": "online_kit_4",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/4/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/4/kit.megadrum"
+  },
+  {
+    "name": "A7X",
+    "path": "online_kit_5",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/5/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/5/kit.megadrum"
+  },
+  {
+    "name": "Black Cymbal",
+    "path": "online_kit_6",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/6/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/6/kit.megadrum"
+  },
+  {
+    "name": "Forró 1",
+    "path": "online_kit_7",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/7/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/7/kit.megadrum"
+  },
+  {
+    "name": "Kristina",
+    "path": "online_kit_8",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/8/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/8/kit.megadrum"
+  },
+  {
+    "name": "Sound X",
+    "path": "online_kit_9",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/9/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/9/kit.megadrum"
+  },
+  {
+    "name": "Orange n' Black",
+    "path": "online_kit_10",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/10/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/10/kit.megadrum"
+  },
+  {
+    "name": "EDS",
+    "path": "online_kit_11",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/11/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/11/kit.megadrum"
+  },
+  {
+    "name": "Alternative",
+    "path": "online_kit_12",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/12/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/12/kit.megadrum"
+  },
+  {
+    "name": "Electric drums",
+    "path": "online_kit_13",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/13/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/13/kit.megadrum"
+  },
+  {
+    "name": "Retro",
+    "path": "online_kit_14",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/14/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/14/kit.megadrum"
+  },
+  {
+    "name": "Armada",
+    "path": "online_kit_15",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/15/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/15/kit.megadrum"
+  },
+  {
+    "name": "Soultone",
+    "path": "online_kit_16",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/16/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/16/kit.megadrum"
+  }
 ]
