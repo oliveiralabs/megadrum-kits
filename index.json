@@ -100,5 +100,11 @@
     "path": "online_kit_20",
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/20/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/20/kit.megadrum"
+  },
+  {
+    "name": "Arie Hardjo",
+    "path": "online_kit_21",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/21/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/21/kit.megadrum"
   }
 ]
