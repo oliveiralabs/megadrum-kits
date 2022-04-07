@@ -250,5 +250,11 @@
     "path": "online_kit_45",
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/45/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/45/kit.megadrum"
+  },
+  {
+    "name": "Bateria Worship",
+    "path": "online_kit_46",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/46/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/46/kit.megadrum"
   }
 ]
