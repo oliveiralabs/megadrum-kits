@@ -257,5 +257,11 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/46/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/46/kit.megadrum",
     "version": "2"
+  },
+  {
+    "name": "Diego Serracena",
+    "path": "online_kit_47",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/47/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/47/kit.megadrum"
   }
 ]
