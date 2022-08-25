@@ -1,0 +1,7 @@
+*
+!.gitignore
+
+!*/conver.png
+!*/kit.megadrum
+!*/kit.percussion
+index.json
