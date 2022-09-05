@@ -15,7 +15,8 @@
     "name": "Black Cymbal",
     "path": "online_kit_6",
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/6/cover.png",
-    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/6/kit.megadrum"
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/6/kit.megadrum",
+    "version": "2"
   },
   {
     "name": "Forró 1",
