@@ -1,7 +1,13 @@
+# Ignore everything
 *
-!.gitignore
 
-!*/conver.png
-!*/kit.megadrum
-!*/kit.percussion
-index.json
+# But not these files...
+!.gitignore
+!conver.png
+!kit.megadrum
+!kit.percussion
+!index.json
+# etc...
+
+# ...even if they are in subdirectories
+!*/
