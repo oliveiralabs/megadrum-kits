@@ -109,12 +109,6 @@
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/21/kit.megadrum"
   },
   {
-    "name": "Arie Hardjo 2",
-    "path": "online_kit_22",
-    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/22/cover.png",
-    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/22/kit.megadrum"
-  },
-  {
     "name": "Barrel Drum",
     "path": "online_kit_23",
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/23/cover.png",
@@ -125,18 +119,6 @@
     "path": "online_kit_24",
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/24/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/24/kit.megadrum"
-  },
-  {
-    "name": "Black Custom 3D 2",
-    "path": "online_kit_25",
-    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/25/cover.png",
-    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/25/kit.megadrum"
-  },
-  {
-    "name": "Charlie Benante Standard",
-    "path": "online_kit_26",
-    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/26/cover.png",
-    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/26/kit.megadrum"
   },
   {
     "name": "Charlie Benante Top View",
@@ -155,12 +137,6 @@
     "path": "online_kit_29",
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/29/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/29/kit.megadrum"
-  },
-  {
-    "name": "Epic Fire 3D Double 2",
-    "path": "online_kit_30",
-    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/30/cover.png",
-    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/30/kit.megadrum"
   },
   {
     "name": "Epic Fire (Motion)",
@@ -187,12 +163,6 @@
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/34/kit.megadrum"
   },
   {
-    "name": "John Bonham 2",
-    "path": "online_kit_35",
-    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/35/cover.png",
-    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/35/kit.megadrum"
-  },
-  {
     "name": "Nirvana",
     "path": "online_kit_36",
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/36/cover.png",
@@ -211,22 +181,10 @@
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/38/kit.megadrum"
   },
   {
-    "name": "Rob Bourdon 2",
-    "path": "online_kit_39",
-    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/39/cover.png",
-    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/39/kit.megadrum"
-  },
-  {
     "name": "Spiderman",
     "path": "online_kit_40",
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/40/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/40/kit.megadrum"
-  },
-  {
-    "name": "Spider 2",
-    "path": "online_kit_41",
-    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/41/cover.png",
-    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/41/kit.megadrum"
   },
   {
     "name": "Studio Rental",
@@ -235,22 +193,10 @@
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/42/kit.megadrum"
   },
   {
-    "name": "Studio Rental 2",
-    "path": "online_kit_43",
-    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/43/cover.png",
-    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/43/kit.megadrum"
-  },
-  {
     "name": "Vintage Custom",
     "path": "online_kit_44",
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/44/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/44/kit.megadrum"
-  },
-  {
-    "name": "Vintage Custom 2",
-    "path": "online_kit_45",
-    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/45/cover.png",
-    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/45/kit.megadrum"
   },
   {
     "name": "Bateria Worship",
