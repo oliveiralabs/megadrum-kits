@@ -3,11 +3,8 @@
 
 # But not these files...
 !.gitignore
-!conver.png
-!kit.megadrum
-!kit.percussion
+!*/cover.png
+!*/kit.megadrum
+!*/kit.percussion
 !index.json
-# etc...
-
-# ...even if they are in subdirectories
-!*/
+!index.html
