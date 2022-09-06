@@ -210,5 +210,12 @@
     "path": "online_kit_47",
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/47/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/47/kit.megadrum"
+  },
+  {
+    "name": "Sky Blue 3D",
+    "path": "online_kit_48",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/48/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/48/kit.megadrum",
+    "version": 1
   }
 ]
