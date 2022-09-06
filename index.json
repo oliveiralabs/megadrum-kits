@@ -217,5 +217,54 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/48/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/48/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Aquino",
+    "path": "online_kit_49",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/49/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/49/kit.megadrum",
+    "version": 1
+  },
+  {
+    "name": "Gospel TN",
+    "path": "online_kit_50",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/50/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/50/kit.megadrum",
+    "version": 1
+  },
+  {
+    "name": "Izora",
+    "path": "online_kit_51",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/51/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/51/kit.megadrum",
+    "version": 1
+  },
+  {
+    "name": "Monkbel",
+    "path": "online_kit_52",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/52/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/52/kit.megadrum",
+    "version": 1
+  },
+  {
+    "name": "Pisadinha",
+    "path": "online_kit_53",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/53/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/53/kit.megadrum",
+    "version": 1
+  },
+  {
+    "name": "R10",
+    "path": "online_kit_54",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/54/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/54/kit.megadrum",
+    "version": 1
+  },
+  {
+    "name": "Workshop",
+    "path": "online_kit_55",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/55/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/55/kit.megadrum",
+    "version": 1
   }
 ]
