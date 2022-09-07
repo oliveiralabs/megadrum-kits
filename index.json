@@ -294,5 +294,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/59/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/59/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Uiliam Gamer",
+    "path": "online_kit_60",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/60/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/60/kit.megadrum",
+    "version": 1
   }
 ]
