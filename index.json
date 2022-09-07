@@ -280,5 +280,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/57/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/57/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "DROZZ Green",
+    "path": "online_kit_58",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/58/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/58/kit.megadrum",
+    "version": 1
   }
 ]
