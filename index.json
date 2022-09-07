@@ -287,5 +287,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/58/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/58/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Kross LDH",
+    "path": "online_kit_59",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/59/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/59/kit.megadrum",
+    "version": 1
   }
 ]
