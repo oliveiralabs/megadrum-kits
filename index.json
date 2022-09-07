@@ -301,5 +301,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/60/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/60/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Pre-Mix André Lopes",
+    "path": "online_kit_61",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/61/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/61/kit.megadrum",
+    "version": 1
   }
 ]
