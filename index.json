@@ -308,5 +308,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/61/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/61/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Lukinha REMO",
+    "path": "online_kit_62",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/62/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/62/kit.megadrum",
+    "version": 1
   }
 ]
