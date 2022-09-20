@@ -315,5 +315,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/62/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/62/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Ds Gold",
+    "path": "online_kit_63",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/63/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/63/kit.megadrum",
+    "version": 1
   }
 ]
