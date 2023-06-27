@@ -340,5 +340,19 @@
     "path": "online_kit_69",
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/69/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/69/kit.megadrum"
+  },
+  {
+    "name": "fills",
+    "path": "online_kit_70",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/70/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/70/kit.megadrum",
+    "version": 1
+  },
+  {
+    "name": "Green Bass",
+    "path": "online_kit_71",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/71/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/71/kit.megadrum",
+    "version": 1
   }
 ]
