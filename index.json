@@ -354,5 +354,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/71/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/71/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Dream",
+    "path": "online_kit_72",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/72/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/72/kit.megadrum",
+    "version": 1
   }
 ]
