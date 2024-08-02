@@ -361,5 +361,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/72/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/72/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Drum Fusion",
+    "path": "online_kit_73",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/73/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/73/kit.megadrum",
+    "version": 1
   }
 ]
