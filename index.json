@@ -368,5 +368,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/73/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/73/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Greenday",
+    "path": "online_kit_74",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/74/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/74/kit.megadrum",
+    "version": 1
   }
 ]
