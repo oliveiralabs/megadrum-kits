@@ -375,5 +375,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/74/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/74/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Metallica Lars",
+    "path": "online_kit_75",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/75/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/75/kit.megadrum",
+    "version": 1
   }
 ]
