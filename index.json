@@ -382,5 +382,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/75/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/75/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Garuda Heroes",
+    "path": "online_kit_76",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/76/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/76/kit.megadrum",
+    "version": 1
   }
 ]
