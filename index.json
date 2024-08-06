@@ -389,5 +389,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/76/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/76/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Fantasy",
+    "path": "online_kit_77",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/77/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/77/kit.megadrum",
+    "version": 1
   }
 ]
