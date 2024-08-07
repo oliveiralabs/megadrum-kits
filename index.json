@@ -396,5 +396,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/77/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/77/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Gilang NR",
+    "path": "online_kit_78",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/78/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/78/kit.megadrum",
+    "version": 1
   }
 ]
