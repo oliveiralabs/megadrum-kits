@@ -403,5 +403,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/78/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/78/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Troy Lee",
+    "path": "online_kit_79",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/79/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/79/kit.megadrum",
+    "version": 1
   }
 ]
