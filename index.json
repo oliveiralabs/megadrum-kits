@@ -410,5 +410,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/79/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/79/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Effect",
+    "path": "online_kit_80",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/80/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/80/kit.megadrum",
+    "version": 1
   }
 ]
