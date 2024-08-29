@@ -480,5 +480,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/89/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/89/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "JRX Rumble",
+    "path": "online_kit_90",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/90/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/90/kit.megadrum",
+    "version": 1
   }
 ]
