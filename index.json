@@ -487,5 +487,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/90/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/90/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Josh Dun",
+    "path": "online_kit_91",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/91/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/91/kit.megadrum",
+    "version": 1
   }
 ]
