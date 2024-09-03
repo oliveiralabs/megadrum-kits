@@ -494,5 +494,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/91/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/91/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Improvised Drum",
+    "path": "online_kit_92",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/92/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/92/kit.megadrum",
+    "version": 1
   }
 ]
