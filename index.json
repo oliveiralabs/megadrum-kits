@@ -501,5 +501,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/92/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/92/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Forró 2024",
+    "path": "online_kit_93",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/93/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/93/kit.megadrum",
+    "version": 1
   }
 ]
