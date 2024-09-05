@@ -508,5 +508,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/93/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/93/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "James Owen",
+    "path": "online_kit_94",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/94/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/94/kit.megadrum",
+    "version": 1
   }
 ]
