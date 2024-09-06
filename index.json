@@ -515,5 +515,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/94/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/94/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Green Metal",
+    "path": "online_kit_95",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/95/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/95/kit.megadrum",
+    "version": 1
   }
 ]
