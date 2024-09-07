@@ -522,5 +522,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/95/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/95/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Dream Teather 3D",
+    "path": "online_kit_96",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/96/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/96/kit.megadrum",
+    "version": 1
   }
 ]
