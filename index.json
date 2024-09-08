@@ -529,5 +529,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/96/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/96/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Cokelat Band",
+    "path": "online_kit_97",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/97/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/97/kit.megadrum",
+    "version": 1
   }
 ]
