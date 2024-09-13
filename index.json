@@ -536,5 +536,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/97/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/97/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Piseiro",
+    "path": "online_kit_98",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/98/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/98/kit.megadrum",
+    "version": 1
   }
 ]
