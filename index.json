@@ -550,5 +550,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/99/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/99/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Alesis Strike",
+    "path": "online_kit_100",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/100/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/100/kit.megadrum",
+    "version": 1
   }
 ]
