@@ -564,5 +564,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/101/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/101/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Evans",
+    "path": "online_kit_102",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/102/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/102/kit.megadrum",
+    "version": 1
   }
 ]
