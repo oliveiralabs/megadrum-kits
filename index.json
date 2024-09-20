@@ -578,5 +578,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/103/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/103/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "VDrums",
+    "path": "online_kit_104",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/104/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/104/kit.megadrum",
+    "version": 1
   }
 ]
