@@ -585,5 +585,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/104/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/104/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Dark Metal 3D",
+    "path": "online_kit_105",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/105/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/105/kit.megadrum",
+    "version": 1
   }
 ]
