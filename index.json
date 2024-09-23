@@ -592,5 +592,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/105/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/105/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Garuda Gold",
+    "path": "online_kit_106",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/106/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/106/kit.megadrum",
+    "version": 1
   }
 ]
