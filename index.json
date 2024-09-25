@@ -599,5 +599,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/106/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/106/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Merah-Putih",
+    "path": "online_kit_107",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/107/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/107/kit.megadrum",
+    "version": 1
   }
 ]
