@@ -606,5 +606,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/107/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/107/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Tyo Nugros",
+    "path": "online_kit_108",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/108/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/108/kit.megadrum",
+    "version": 1
   }
 ]
