@@ -613,5 +613,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/108/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/108/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Night",
+    "path": "online_kit_109",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/109/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/109/kit.megadrum",
+    "version": 1
   }
 ]
