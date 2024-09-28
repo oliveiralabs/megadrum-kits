@@ -620,5 +620,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/109/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/109/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "BW Rock",
+    "path": "online_kit_110",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/110/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/110/kit.megadrum",
+    "version": 1
   }
 ]
