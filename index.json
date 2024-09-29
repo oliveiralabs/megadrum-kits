@@ -627,5 +627,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/110/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/110/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Brooks",
+    "path": "online_kit_111",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/111/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/111/kit.megadrum",
+    "version": 1
   }
 ]
