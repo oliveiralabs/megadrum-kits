@@ -634,5 +634,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/111/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/111/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Sandy Andarusman",
+    "path": "online_kit_112",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/112/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/112/kit.megadrum",
+    "version": 1
   }
 ]
