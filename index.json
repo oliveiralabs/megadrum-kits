@@ -641,5 +641,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/112/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/112/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Dewa 19",
+    "path": "online_kit_113",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/113/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/113/kit.megadrum",
+    "version": 1
   }
 ]
