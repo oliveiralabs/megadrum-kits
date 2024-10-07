@@ -655,5 +655,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/114/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/114/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Arie Tipe-X",
+    "path": "online_kit_115",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/115/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/115/kit.megadrum",
+    "version": 1
   }
 ]
