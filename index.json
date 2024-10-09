@@ -669,5 +669,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/116/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/116/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Forró Band",
+    "path": "online_kit_117",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/117/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/117/kit.megadrum",
+    "version": 1
   }
 ]
