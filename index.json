@@ -676,5 +676,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/117/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/117/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Nirvana 2",
+    "path": "online_kit_118",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/118/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/118/kit.megadrum",
+    "version": 1
   }
 ]
