@@ -684,11 +684,18 @@
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/118/kit.megadrum",
     "version": 1
   },
-    {
+  {
     "name": "Acoustic Gospel",
     "path": "online_kit_119",
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/119/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/119/kit.megadrum",
     "version": 2
+  },
+  {
+    "name": "Pitch Black",
+    "path": "online_kit_120",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/120/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/120/kit.megadrum",
+    "version": 1
   }
 ]
