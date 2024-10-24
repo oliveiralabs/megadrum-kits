@@ -697,5 +697,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/120/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/120/kit.megadrum",
     "version": 1
-  }
+  },
+  {
+    "name": "Kriss Drummer",
+    "path": "online_kit_121",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/121/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/121/kit.megadrum",
+    "version": 1
+  },
 ]
