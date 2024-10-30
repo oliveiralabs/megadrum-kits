@@ -704,5 +704,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/121/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/121/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Viral Black",
+    "path": "online_kit_122",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/122/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/122/kit.megadrum",
+    "version": 1
   }
 ]
