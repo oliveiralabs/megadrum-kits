@@ -711,5 +711,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/122/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/122/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Gospel Metal",
+    "path": "online_kit_123",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/123/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/123/kit.megadrum",
+    "version": 1
   }
 ]
