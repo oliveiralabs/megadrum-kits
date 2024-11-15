@@ -718,5 +718,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/123/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/123/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "DS 04",
+    "path": "online_kit_124",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/124/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/124/kit.megadrum",
+    "version": 1
   }
 ]
