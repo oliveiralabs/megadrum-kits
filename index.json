@@ -725,5 +725,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/124/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/124/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Aquiles Priester 3D",
+    "path": "online_kit_125",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/125/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/125/kit.megadrum",
+    "version": 1
   }
 ]
