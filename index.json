@@ -732,5 +732,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/125/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/125/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Pedalada 3D",
+    "path": "online_kit_126",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/126/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/126/kit.megadrum",
+    "version": 1
   }
 ]
