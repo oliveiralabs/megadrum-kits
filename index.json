@@ -739,5 +739,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/126/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/126/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Gospel Fire",
+    "path": "online_kit_127",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/127/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/127/kit.megadrum",
+    "version": 1
   }
 ]
