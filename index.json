@@ -746,5 +746,12 @@
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/127/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/127/kit.megadrum",
     "version": 1
+  },
+  {
+    "name": "Punch Rock",
+    "path": "online_kit_128",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/128/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/128/kit.megadrum",
+    "version": 1
   }
 ]
