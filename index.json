@@ -21,7 +21,8 @@
     "name": "Forró 1",
     "path": "online_kit_7",
     "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/7/cover.png",
-    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/7/kit.megadrum"
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/7/kit.megadrum",
+    "version": 2
   },
   {
     "name": "Kristina",
