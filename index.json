@@ -81,8 +81,9 @@
   {
     "name": "Guns n' Roses Standard",
     "path": "online_kit_17",
-    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/17/cover.png?v=835a67558b80",
-    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/17/kit.megadrum"
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/17/cover.png?v=1d81f1f6df02",
+    "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/17/kit.megadrum",
+    "version": 2
   },
   {
     "name": "Guns n' Roses Top View",
@@ -639,9 +640,9 @@
   {
     "name": "Brooks",
     "path": "online_kit_111",
-    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/111/cover.png?v=ebdebf7fc848",
+    "coverUrl": "https://oliveiralabs.github.io/megadrum-kits/111/cover.png?v=893767fb5f22",
     "zipUrl": "https://oliveiralabs.github.io/megadrum-kits/111/kit.megadrum",
-    "version": 1
+    "version": 2
   },
   {
     "name": "Sandy Andarusman",
